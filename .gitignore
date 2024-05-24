@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+*.env
+*.sqlite3
+*.db
+
+# Static files
+/staticfiles/
+/static/
+
+# Media files
+/media/
+
+# Log files
+*.log
+logs/
+
+# Virtual environment
+.venv/
